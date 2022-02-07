@@ -12,9 +12,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://google.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://divyanshu-portfolio.vercel.app/)**
 
 - 📫 Reach me at  **<a href="mailto:divyanshu14may@gmail.com">divyanshu14may@gmail.com</a>**
+
+- 📔 [My Resume](https://github.com/divyanshugupta14/Divyanshu_Portfolio/raw/main/public/resume.pdf) 
 
 - ⚡ Fun fact **I work hard and party harder.**
 
