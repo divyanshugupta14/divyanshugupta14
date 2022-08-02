@@ -63,8 +63,6 @@
 
 <!-- <a href="https://github.com/divyanshugupta14/github-readme-activity-graph"><img alt="Divyanshu Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=divyanshugupta14&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-<br/>
-<br/>
 
 ## Connect with me:
 
